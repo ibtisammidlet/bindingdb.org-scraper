@@ -6,8 +6,8 @@
 // @author       ibtisam midlet (ibtisam tweaks)
 // @match        *://www.bindingdb.org/bind/AdvancedSearch.jsp*
 // @icon         https://www.google.com/s2/favicons?domain=bindingdb.org
-// @updateURL    https://github.com/ibtisammidlet/bindingdb.org-scraper/raw/main/bindingdb.org%20scraper%20v0.1.meta.js
-// @downloadURL  https://github.com/ibtisammidlet/bindingdb.org-scraper/raw/main/bindingdb.org%20scraper%20v0.1.user.js
+// @updateURL    https://github.com/ibtisammidlet/bindingdb.org-scraper/raw/main/bindingdb.org%20scraper.meta.js
+// @downloadURL  https://github.com/ibtisammidlet/bindingdb.org-scraper/raw/main/bindingdb.org%20scraper.user.js
 // @supportURL   https://biohackit.dailyinternetlife.com/2021/08/bindingdborg-scraper-targethost-species.html
 // @date         2021-08-04
 // @homepage     https://biohackit.dailyinternetlife.com/2021/08/bindingdborg-scraper-targethost-species.html
